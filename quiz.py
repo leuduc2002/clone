@@ -15,7 +15,7 @@ question_pack = [
     }
 ]
 
-print(q["question"])
+print(["question"])
 print()
 
 choices = q["choice"]
